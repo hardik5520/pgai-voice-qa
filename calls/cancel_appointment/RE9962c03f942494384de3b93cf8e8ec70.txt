@@ -1,0 +1,31 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling to the Point Orthopedics.
+[00:08] Clinic Agent: Part of Pretty Good AI.
+[00:10] Clinic Agent: How may I help you today?
+[00:13] Patient (Bot): Hey, yeah, I need to cancel an appointment I already have.
+[00:19] Clinic Agent: I see you're calling from the number we have on file.
+[00:22] Clinic Agent: Am I speaking with Hardis?
+[00:25] Patient (Bot): This is Hardick speaking.
+[00:27] Clinic Agent: Please provide your data first.
+[00:30] Patient (Bot): It's May 5th.
+[00:31] Clinic Agent: I need your date of birth to look up your information.
+[00:34] Clinic Agent: Could you please tell me your date of birth?
+[00:37] Patient (Bot): Oh, right. My date of birth is May 5th.
+[00:40] Patient (Bot): 2000
+[00:50] Clinic Agent: You have an appointment scheduled with Kelly Noble, MD, on Thursday, July 9th.
+[00:55] Clinic Agent: Is this the appointment you want to cancel?
+[00:58] Patient (Bot): Yeah, that sounds right. I need to cancel that appointment.
+[01:03] Clinic Agent: Can you tell me the reason for canceling your appointment?
+[01:08] Patient (Bot): I'm actually going out of town, so I won't be able to make it.
+[01:14] Clinic Agent: You'd like to cancel your appointment with Kelly Noble, MD, on Thursday, July 9th?
+[01:19] Clinic Agent: Because you'll be out of town.
+[01:21] Clinic Agent: Is that correct?
+[01:23] Patient (Bot): Yeah, exactly. That's correct.
+[01:30] Clinic Agent: Your appointment with Kelly Noble on July 9th has been canceled.
+[01:34] Clinic Agent: Is there anything else I can help you with today?
+[01:37] Patient (Bot): Nope, that's all. Thanks for your help. I'll call back later if I need to reschedule.
+[01:44] Clinic Agent: That's it.
+[01:45] Clinic Agent: Your appointment is canceled.
+[01:46] Clinic Agent: Feel free to call back anytime if you need to reschedule.
+[01:50] Clinic Agent: Have a great day!
+[01:53] Patient (Bot): You too. Take care.

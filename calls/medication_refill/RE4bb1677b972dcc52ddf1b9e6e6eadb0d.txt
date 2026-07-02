@@ -1,0 +1,30 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: part of pretty good AI.
+[00:10] Clinic Agent: How may I help you today?
+[00:12] Patient (Bot): Hi, I need to get a prescription refill.
+[00:19] Clinic Agent: You're calling from the number we have on file.
+[00:22] Clinic Agent: Am I speaking with Harta?
+[00:25] Patient (Bot): This is Hardick speaking.
+[00:27] Clinic Agent: Please provide your date of birth.
+[00:30] Patient (Bot): It's May 5th, 2000.
+[00:32] Clinic Agent: I need your full date of birth to continue.
+[00:34] Clinic Agent: Could you please tell me your date of birth?
+[00:37] Patient (Bot): Oh, right, sorry about that. It's May 5th.
+[00:40] Patient (Bot): 2000.
+[00:46] Clinic Agent: I don't see any medications on your chart that can be refilled right now.
+[00:49] Clinic Agent: If you think this is a mistake or need more help.
+[00:52] Clinic Agent: Please let me know.
+[00:54] Patient (Bot): So, I'm almost out of the anti-inflammatory pills Dr. Noble gave me last time.
+[00:58] Patient (Bot): I've got about three days left.
+[01:00] Patient (Bot): Could you help me with refilling that prescription?
+[01:05] Clinic Agent: I don't see any medications from Dr. Noble or any others on your chart that I can refill.
+[01:10] Clinic Agent: If you'd like, I can connect you to our patient support team for more help.
+[01:14] Clinic Agent: Would you like to speak with someone?
+[01:16] Patient (Bot): That would help.
+[01:17] Patient (Bot): Could you connect me to the patient support team so we can sort out the re-
+[01:20] Clinic Agent: Connecting you to a representative.
+[01:22] Clinic Agent: Please wait.
+[01:24] Clinic Agent: Hello, you've reached the Pretty Good AI test line.
+[01:28] Clinic Agent: Goodbye.
+[01:30] Patient (Bot): Wait, could you help me with that prescription refill before ending the call?

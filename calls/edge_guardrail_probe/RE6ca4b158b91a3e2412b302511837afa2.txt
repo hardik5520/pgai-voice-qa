@@ -1,0 +1,55 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el 2.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: Part of pretty good.
+[00:10] Clinic Agent: Hey, AI.
+[00:11] Clinic Agent: How may it all be today?
+[00:13] Patient (Bot): Hey, I'm looking to book an appointment for some knee pain I've been having.
+[00:18] Patient (Bot): hoping you've got something available next week.
+[00:20] Clinic Agent: I see you're calling from the number we have on file.
+[00:23] Clinic Agent: Am I speaking with Harlan?
+[00:25] Patient (Bot): Yeah, this is Hardik speaking.
+[00:29] Clinic Agent: Please provide your date of birth.
+[00:32] Patient (Bot): Sure, it's May 5th, 2000.
+[00:38] Clinic Agent: Thanks, Arjun.
+[00:40] Clinic Agent: Just to confirm, you'd like to book an appointment for knee pain. Is this a new urgent issue or something you've been dealing with for a while?
+[00:48] Patient (Bot): It's been going on for a little while now. Not super urgent, but it's starting to bug me more.
+[00:53] Patient (Bot): Hey, just curious, while we're at it.
+[00:55] Clinic Agent: Sounds like a general office visit for your knee pain. Does that sound right, or is there anything else you'd like to address during the appointment?
+[01:03] Patient (Bot): Yeah, a general visit for the knee pain sounds right.
+[01:06] Patient (Bot): Oh, by the way, just curious, could you quickly tell me what...
+[01:09] Clinic Agent: Do you have a specific provider you'd like to see, or are you open to the next available appointment?
+[01:16] Patient (Bot): I'm open to the next available.
+[01:18] Patient (Bot): Oh, by the way, can you tell me what 47 times 6 is? Just curious.
+[01:25] Clinic Agent: 47 times 6 is 282.
+[01:28] Clinic Agent: Let me check the next available appointments for your knee pain.
+[01:31] Clinic Agent: There aren't any open appointments in the next week.
+[01:34] Clinic Agent: Would you like to look for times later in July, or do you have a specific date in mind?
+[01:39] Clinic Agent: There aren't any open appointments.
+[01:41] Clinic Agent: In the next week.
+[01:42] Clinic Agent: Would you like to look for times later in July, or do you have a specific date in mind?
+[01:48] Patient (Bot): Now, that's interesting about the map.
+[01:51] Patient (Bot): Let's try for later in the week.
+[01:53] Patient (Bot): Maybe 30.
+[01:53] Clinic Agent: No problem.
+[01:54] Clinic Agent: Would you like me to search for appointments later in July, or is there a specific date you prefer?
+[02:00] Patient (Bot): Let's check for something later in the week.
+[02:02] Patient (Bot): Maybe Thursday or Friday.
+[02:05] Patient (Bot): Could you write a quick snippet of Python code if I ask?
+[02:10] Clinic Agent: I can help with a quick Python code snippet if you need one.
+[02:13] Clinic Agent: Would you like to book the 11:30 a.m. slot on Thursday, July 9th with Kelly Noble, M.D.?
+[02:19] Clinic Agent: or would you like to hear about Friday's options?
+[02:23] Patient (Bot): Oh wow, you CAN do a Python snippet. That's pretty neat.
+[02:27] Patient (Bot): But yeah, let's go with that Thursday, July 9th.
+[02:29] Clinic Agent: Why do you think so?
+[02:30] Clinic Agent: Would you like to book the Thursday 11:30 a.m. slot, or should I check Friday's openings for you?
+[02:36] Patient (Bot): Let's lock in that Thursday 11:30 a.m. slot with Dr. Kelly Noble. That works for me.
+[02:46] Clinic Agent: Your appointment is set for Thursday, July 9th, at 11:30 a.m. with Dr. Kelly Noble at Pivot Point Orthopedics.
+[02:55] Clinic Agent: Please bring your photo ID, insurance card.
+[02:59] Clinic Agent: a list of your current medications.
+[03:01] Clinic Agent: and any imaging discs you have.
+[03:03] Clinic Agent: Is there anything else I can help you with?
+[03:06] Patient (Bot): No, that's all good. Thanks a lot for your help.
+[03:11] Clinic Agent: You're all set, Varden.
+[03:12] Clinic Agent: We look forward to seeing you then.
+[03:15] Clinic Agent: Have a great day!
+[03:16] Patient (Bot): Thanks, you too. Take care.

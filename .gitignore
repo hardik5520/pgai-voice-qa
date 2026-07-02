@@ -1,0 +1,14 @@
+# secrets, never commit this
+.env
+
+# internal bookkeeping for make_call.py/transcribe.py, embeds the Twilio
+# account SID in recording_url, not a deliverable, never commit this
+calls/call_log.jsonl
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# os cruft
+.DS_Store

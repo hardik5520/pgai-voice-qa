@@ -1,0 +1,50 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: part of Pretty Good AI. How may I help you today?
+[00:12] Patient (Bot): Hey, yeah, I'm looking to book an appointment.
+[00:15] Patient (Bot): I need something on Sunday morning, like 10 a.m.
+[00:17] Clinic Agent: I see you're calling from the number we have on file.
+[00:20] Clinic Agent: Am I thinking with hardest?
+[00:22] Patient (Bot): Yeah, this is Hardik Aurora.
+[00:26] Clinic Agent: Please provide your data first.
+[00:28] Patient (Bot): Sure, my date of birth is May 5th, 2000.
+[00:35] Clinic Agent: Thanks, Harley.
+[00:37] Clinic Agent: What type of appointment would you like to book?
+[00:39] Clinic Agent: For example, is this for a new concern, a follow-up, a routine visit, or something else?
+[00:44] Patient (Bot): It's a follow-up appointment for my knee.
+[00:47] Patient (Bot): I just need to book that.
+[00:50] Clinic Agent: Do you have a specific provider you'd like to see for your knee follow-up, or are you open to any available provider?
+[00:56] Patient (Bot): I'd prefer to see Dr. Patel again, if possible.
+[01:07] Clinic Agent: It looks like Dr. Patel does not have any openings, but I do see availability with Dr. Doogie Hauser, Carl Mentz, and Kelly Noble.
+[01:16] Clinic Agent: Would you like to book with one of them, or should I check for later dates for Dr. Patel?
+[01:21] Patient (Bot): Well, I really need something soon.
+[01:23] Clinic Agent: Would you like to see available times with one of the providers I mentioned, or should I look for future dates with Dr. Patel?
+[01:31] Patient (Bot): Actually...
+[01:32] Patient (Bot): I really need something on Sunday morning.
+[01:34] Patient (Bot): Around 10 a.m.
+[01:35] Patient (Bot): That's the only time that works for me.
+[01:38] Patient (Bot): You have that available with anyone?
+[01:41] Clinic Agent: I understand you need a Sunday morning slot around 10.
+[01:44] Clinic Agent: Pivot Point Orthopedics typically offers appointments Monday through Saturday. Would you like me to check the earliest available morning slot next week, or would you prefer to speak with the office directly about special accommodations?
+[01:57] Patient (Bot): Oh, really? No Sundays at all?
+[02:00] Patient (Bot): That's kind of a problem for me.
+[02:02] Patient (Bot): All right, what's the earliest morning slot you've got next?
+[02:04] Clinic Agent: That's right, there are no Sunday appointments available at this clinic.
+[02:07] Clinic Agent: Would you like to look at early morning slots on another day?
+[02:10] Clinic Agent: or would you like to speak with someone from the office for more help?
+[02:14] Patient (Bot): All right, let's look at the earliest morning slot on another day.
+[02:18] Patient (Bot): What's the soonest weekday morning you've got open?
+[02:20] Clinic Agent: The earliest available morning slot is Thursday, July 2nd at 8 a.m. with Dr. Doogie Hauser.
+[02:27] Clinic Agent: Would you like to book that appointment?
+[02:29] Patient (Bot): All right.
+[02:30] Patient (Bot): I guess let's go with that Thursday 8 a.m. slot with Dr. Doogie Howser.
+[02:35] Patient (Bot): That'll work.
+[02:39] Clinic Agent: Your appointment is set for Thursday, July 2nd at 8 a.m. with Dr. Doogie Houser at Pivot Point Orthopedics.
+[02:46] Clinic Agent: Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have.
+[02:52] Clinic Agent: Would you like me to text you these details?
+[02:55] Patient (Bot): Yeah, that'd be great. Please text him over.
+[03:01] Clinic Agent: I sent the appointment details to your phone. If you have any other questions or need to make changes, just let me know.
+[03:08] Patient (Bot): All right, got it. Thanks for your help.
+[03:13] Clinic Agent: You're all set, Harvey.
+[03:14] Clinic Agent: Have a great day, and we look forward to seeing you at your appointment.
+[03:19] Patient (Bot): You too. I'll see you then.

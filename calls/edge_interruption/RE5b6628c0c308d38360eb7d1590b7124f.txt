@@ -1,0 +1,38 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling.
+[00:07] Clinic Agent: Pivot Point Orthopedics.
+[00:09] Clinic Agent: Part of a pretty good AI.
+[00:10] Clinic Agent: How may I help you today?
+[00:13] Patient (Bot): Hi, yeah, I need to book an appointment for some knee pain.
+[00:16] Patient (Bot): Ideally something this week, if possible.
+[00:20] Clinic Agent: You're calling from the number we have on file.
+[00:22] Clinic Agent: Am I speaking with Hardik?
+[00:24] Patient (Bot): Yeah, this is Hardik speaking.
+[00:28] Clinic Agent: Please provide your date of birth.
+[00:31] Patient (Bot): It's May 5th, 2000.
+[00:38] Clinic Agent: Thanks, Harry.
+[00:39] Clinic Agent: Just to confirm, you'd like to book an appointment for knee pain.
+[00:42] Clinic Agent: Is this an urgent issue that needs same-day attention, or is it more of a routine concern?
+[00:47] Patient (Bot): It's been bothering me for a while, so kind of urgent. Yeah, I'd really like to get in this week if possible.
+[00:56] Clinic Agent: Do you have a specific provider you'd like to see?
+[00:59] Clinic Agent: Or are you open to the first available appointment?
+[01:03] Patient (Bot): I'm open to the first available, just the soonest you've got.
+[01:09] Clinic Agent: We have openings this week, starting as soon as tomorrow.
+[01:12] Clinic Agent: Would you prefer a morning or afternoon appointment?
+[01:16] Patient (Bot): Good morning. That worked.
+[01:18] Patient (Bot): Tomorrow morning's good, if there's something.
+[01:23] Clinic Agent: Tomorrow morning we have an 8 a.m. slot with Dr. Zbigniew Lokowski.
+[01:28] Clinic Agent: And a 9:15 a.m. slot with Dr. Kelly Noble.
+[01:32] Clinic Agent: Would either of those work for you?
+[01:34] Patient (Bot): The first one. That's fine.
+[01:36] Patient (Bot): 8 a.m. tomorrow with Dr. Zbigniew. Let's lock that in.
+[01:42] Clinic Agent: Your appointment is set for tomorrow, Thursday, July 2nd, at 8 a.m. with Dr. Zbigniew Lukowski.
+[01:49] Clinic Agent: At Pivot Point Orthopedic.
+[01:51] Clinic Agent: Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs if you have them.
+[01:57] Clinic Agent: Is there anything else I can help you with today?
+[02:00] Patient (Bot): No, that covers it.
+[02:02] Patient (Bot): Thanks so much. I'll be there.
+[02:06] Clinic Agent: You're all set. Harden.
+[02:08] Clinic Agent: We look forward to seeing you tomorrow at 8 a.m.
+[02:11] Clinic Agent: Have a great day.
+[02:14] Patient (Bot): You too. See you then.

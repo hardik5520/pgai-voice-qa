@@ -1,0 +1,22 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: part of Pretty Good AI.
+[00:11] Clinic Agent: How may I help you today?
+[00:12] Patient (Bot): Hey, yeah, I've got a quick question before booking anything.
+[00:16] Patient (Bot): I have Blue Cross Blue Shield insurance.
+[00:19] Patient (Bot): You happen to be a network?
+[00:21] Patient (Bot): And if not, can you give me a rough idea of what an out-of-pocket visit might cost?
+[00:28] Clinic Agent: Midpoint Orthopedics accepts most major insurance plans, including many Blue Cross Blue Shield plans.
+[00:35] Clinic Agent: Coverage can vary by specific plan, so I recommend checking with your insurance provider to confirm network status.
+[00:41] Clinic Agent: If you end up paying out of pocket, visit costs can depend on the type of appointment or procedure.
+[00:46] Clinic Agent: Would you like a general estimate for a new patient visit or a specific service?
+[00:51] Patient (Bot): Yeah, just a general estimate for a new patient visit would be helpful.
+[00:59] Clinic Agent: A general estimate for a new patient visit at Pivot Point Orthopedics is usually between $150 to $300, depending on the complexity of your case and any additional services needed.
+[01:11] Clinic Agent: This is just a ballpark figure. Your actual cost may vary.
+[01:15] Clinic Agent: Would you like to check appointment availability or have any other questions?
+[01:20] Patient (Bot): I'd like to check with my insurance first, so I might call back.
+[01:23] Patient (Bot): Thanks for the info. That helped.
+[01:30] Clinic Agent: You're welcome.
+[01:31] Clinic Agent: If you have more questions or want to book an appointment later, just give us a call.
+[01:35] Clinic Agent: Have a great day!
+[01:36] Patient (Bot): Thanks, you too. I'll be in touch if I need anything else.

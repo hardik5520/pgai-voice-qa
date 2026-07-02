@@ -1,0 +1,29 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: part of Pretty Good AI.
+[00:11] Clinic Agent: How may I help you today?
+[00:13] Patient (Bot): Hi, yeah, I need to reschedule an appointment I already have.
+[00:22] Clinic Agent: Pivot Point Orthopedics.
+[00:25] Clinic Agent: How can I help you today?
+[00:27] Patient (Bot): Sure, um...
+[00:29] Patient (Bot): I need to reschedule an appointment I already have.
+[00:37] Clinic Agent: I see you're calling from the number we have on file.
+[00:40] Clinic Agent: Am I thinking with heartache?
+[00:42] Patient (Bot): Yeah, that's right. This is Hardik.
+[00:51] Clinic Agent: Before we get started, can you please confirm if I am speaking with Harvard?
+[00:55] Patient (Bot): Yeah, this is Hardik Arora speaking.
+[01:03] Clinic Agent: In order to obtain verdict, please provide your data first.
+[01:07] Patient (Bot): Sure, it's May 5th, 2000.
+[01:23] Clinic Agent: You have an appointment scheduled for Tuesday, July 14th at 10:30 a.m. with Doogie Hauser at Nashville.
+[01:30] Clinic Agent: 220 Athens Way. Is this the appointment you want to reschedule?
+[01:35] Patient (Bot): Yeah, that sounds right.
+[01:37] Patient (Bot): I'd like to move it a few days later, preferably in the afternoon.
+[01:44] Clinic Agent: You have an appointment on Tuesday, July 14th at 10:30 a.m. with Judy Hauser at Nashville, 220 Athens Way.
+[01:52] Clinic Agent: Is this the one you'd like to reschedule?
+[01:54] Patient (Bot): Yeah, exactly. That's the one. Let's go ahead and reschedule it a few days later in the afternoon if possible.
+[02:02] Clinic Agent: Are you still there?
+[02:04] Patient (Bot): Oh, yeah, I'm here. Sorry about that.
+[02:07] Patient (Bot): Yes, that's the appointment I want to reschedule.
+[02:09] Patient (Bot): Could we move it a few days later, in the afternoon?
+[02:11] Clinic Agent: I am going to end the call now. Goodbye.
+[02:15] Patient (Bot): Oh, wait, before you go, can we confirm the new date and time for the reschedule?

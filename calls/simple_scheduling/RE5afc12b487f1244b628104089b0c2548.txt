@@ -1,0 +1,59 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: Part of Pretty Good AI. How may I help you today?
+[00:12] Patient (Bot): Oh, hi.
+[00:13] Patient (Bot): I'd like to schedule an appointment with a doctor.
+[00:16] Patient (Bot): I've got some knee pain, and I'm hoping to find a time next week if possible.
+[00:19] Clinic Agent: I see you're calling from the number we have on file.
+[00:21] Clinic Agent: Am I speaking with Hardy?
+[00:24] Patient (Bot): This is hard.
+[00:27] Clinic Agent: Please provide your date of birth.
+[00:30] Patient (Bot): It's May 5th.
+[00:31] Clinic Agent: I need your date of birth to continue.
+[00:33] Clinic Agent: Could you please tell me your date of birth?
+[00:36] Patient (Bot): Oh, sure.
+[00:37] Patient (Bot): It's May 5th.
+[00:38] Patient (Bot): 2000.
+[00:42] Clinic Agent: Can you also provide the year of your birth?
+[00:45] Patient (Bot): Yeah, it's 2000.
+[00:56] Clinic Agent: What kind of appointment would you like to schedule?
+[00:58] Clinic Agent: For example, is this for a routine checkup, a new patient consultation, a follow-up, or something urgent?
+[01:05] Patient (Bot): It's a new patient consultation. I've had some knee pain for about two weeks, and I'd like to get it checked out.
+[01:14] Clinic Agent: Do you have a specific provider you'd like to see, or are you open to the next available?
+[01:19] Patient (Bot): I'm open to the next available.
+[01:21] Patient (Bot): Just hoping to get something soon. Maybe next week.
+[01:25] Patient (Bot): That sounds good.
+[01:26] Patient (Bot): What's the earliest available time next week?
+[01:32] Clinic Agent: Let me find the available times for a new patient consultation next week.
+[01:38] Clinic Agent: There are no openings for a new patient consultation in the next week.
+[01:42] Clinic Agent: Would you like me to look for the next available appointment after July 8th?
+[01:46] Patient (Bot): Oh, I was really hoping for something sooner.
+[01:49] Patient (Bot): Could you maybe check if there's any cancellation list or something that might open up earlier?
+[01:56] Clinic Agent: I can't add you to a cancellation list directly.
+[01:59] Clinic Agent: but I can let the clinic know you'd like to be seen as soon as possible if something opens up.
+[02:03] Clinic Agent: Would you like me to pass that request along for follow-up?
+[02:07] Patient (Bot): Yes, please.
+[02:08] Patient (Bot): That would be great.
+[02:09] Patient (Bot): And in the meantime, could you go ahead and tell me the next available appointment after July 8th?
+[02:15] Patient (Bot): just so I have something on the calendar.
+[02:22] Clinic Agent: I'll let the clinic know you want to be seen sooner if a spot opens up.
+[02:25] Clinic Agent: For now, the next available is Tuesday, July 14th with Doody Hauser.
+[02:30] Clinic Agent: Would you like 10.30 a.m., 12 p.m., or 1.30 p.m.?
+[02:35] Patient (Bot): All right.
+[02:36] Patient (Bot): Let's go with 10:30 a.m. on July 14th.
+[02:39] Clinic Agent: Just to confirm, would you like to book the 10:30 a.m., 12 p.m., or 1:30 p.m. slot on Tuesday, July 14th with Judy Hauser?
+[02:48] Patient (Bot): Let's go with the 10:30 a.m. slot.
+[02:55] Clinic Agent: Your appointment is set for Tuesday, July 14th at 10:30 a.m. with Dr. Judy Hauser at Pivot Point Orthopedics.
+[03:03] Clinic Agent: Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have.
+[03:10] Clinic Agent: Would you like a text message with these details?
+[03:14] Patient (Bot): That would be helpful. Thank you.
+[03:16] Patient (Bot): And just to confirm.
+[03:17] Patient (Bot): My appointment is on Tuesday, July 14th at 10:30 a.m. with Dr. Doogie Howser.
+[03:27] Clinic Agent: Yes, your appointment is confirmed for Tuesday, July 14th at 10:30 a.m. with Dr. Doogie Howser.
+[03:33] Clinic Agent: You'll get a text with all the details.
+[03:35] Clinic Agent: If you need anything else, just let me know.
+[03:38] Patient (Bot): Thanks so much.
+[03:39] Patient (Bot): I appreciate it. I'll watch for that text.
+[03:42] Patient (Bot): Have a great day.
+[03:45] Clinic Agent: You too. Take care.
+[03:47] Patient (Bot): Take care. Bye.

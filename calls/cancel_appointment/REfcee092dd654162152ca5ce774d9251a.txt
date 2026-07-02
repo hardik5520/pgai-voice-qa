@@ -1,0 +1,26 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: Part of Pretty Good AI. How may I help you today?
+[00:13] Patient (Bot): Hi, I need to cancel an appointment I already have.
+[00:21] Clinic Agent: I see you're calling from the number we have on file. Am I speaking with Hardik?
+[00:26] Patient (Bot): Yeah, this is Hardik speaking.
+[00:30] Clinic Agent: Please provide your date of birth.
+[00:33] Patient (Bot): My date of birth is May 5th, 2000.
+[00:42] Clinic Agent: You have an appointment on Tuesday, July 14th with Judy Hauser. Is this the one you want to cancel?
+[00:49] Patient (Bot): That's the one I need to cancel.
+[00:52] Clinic Agent: Can you tell me the reason for cancelling your appointment?
+[00:57] Patient (Bot): I'm actually going out of town, so I won't be able to make it.
+[01:03] Clinic Agent: You'd like to cancel your appointment on Tuesday, July 14th with Judy Hauser?
+[01:07] Clinic Agent: Because you'll be out of town.
+[01:09] Clinic Agent: Is that correct?
+[01:11] Patient (Bot): Yeah, that's correct.
+[01:13] Patient (Bot): Please go ahead and cancel it.
+[01:19] Clinic Agent: Your appointment on July 14th with Dr. Doobie Hauser has been canceled.
+[01:23] Clinic Agent: Is there anything else I can help you with today?
+[01:26] Patient (Bot): No, that's all for now.
+[01:28] Patient (Bot): I'll call back later once my travel plans are settled.
+[01:31] Patient (Bot): Thanks for your help.
+[01:40] Clinic Agent: You're all set, heartache.
+[01:42] Clinic Agent: Feel free to call back whenever you're ready to reschedule.
+[01:44] Clinic Agent: Have a great day!
+[01:46] Patient (Bot): Thanks, you too. Take care.

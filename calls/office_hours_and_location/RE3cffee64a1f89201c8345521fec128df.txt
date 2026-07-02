@@ -1,0 +1,26 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: Part of Pretty Good AI. How may I help you today?
+[00:12] Patient (Bot): Hey, yeah, I just have a couple of quick questions for you.
+[00:16] Patient (Bot): Could you tell me what your hours are?
+[00:18] Patient (Bot): And also, are you open on weekends?
+[00:20] Patient (Bot): And I'd love to know your office address.
+[00:22] Patient (Bot): or which part of town you're in.
+[00:26] Clinic Agent: Our clinic is open Monday through Friday.
+[00:29] Clinic Agent: So we are closed on weekends.
+[00:32] Clinic Agent: One moment.
+[00:35] Patient (Bot): Take your time.
+[00:38] Clinic Agent: MediPoint Orthopedics is located at 1234 Recovery Way.
+[00:43] Clinic Agent: Suite 200, Austin. We're in the Recovery Plaza Medical Building.
+[00:48] Clinic Agent: If you need anything else, just let me know.
+[00:52] Patient (Bot): Thanks for that.
+[00:53] Patient (Bot): So, just to confirm, you're not open on weekends at all, right?
+[00:57] Patient (Bot): And you're at 1234 Recovery Way in the Recovery Plaza Medical Building in Austin.
+[01:01] Patient (Bot): Perfect, that's all I needed for now.
+[01:03] Patient (Bot): I might call back later if I want to book something.
+[01:08] Clinic Agent: You've got it right.
+[01:09] Clinic Agent: We're closed on weekends.
+[01:11] Clinic Agent: and open Monday through Friday at 1234 Recovery Way, Suite 200 in Austin.
+[01:17] Clinic Agent: Feel free to call back anytime if you want to book an appointment or have more questions.
+[01:21] Clinic Agent: Have a great day!
+[01:23] Patient (Bot): Thanks a lot. You too. Take care.

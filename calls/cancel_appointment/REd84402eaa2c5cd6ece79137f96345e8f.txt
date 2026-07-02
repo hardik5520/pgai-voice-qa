@@ -1,0 +1,27 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: part of pretty good AI. How may I help you today?
+[00:12] Patient (Bot): Hi, yeah, I need to cancel an appointment I already have.
+[00:18] Clinic Agent: I see you're calling from a number we have on file.
+[00:21] Clinic Agent: Am I speaking with Harkit?
+[00:23] Patient (Bot): Yeah, this is Hardik speaking.
+[00:27] Clinic Agent: Please provide your date of birth.
+[00:30] Patient (Bot): It's May 5th, 2000.
+[00:42] Clinic Agent: You have an appointment scheduled for Thursday, July 2nd with Dr. Zidnu Lokovsky.
+[00:47] Clinic Agent: Is this the appointment you want to cancel?
+[00:49] Patient (Bot): Yeah, that's the one I need to cancel.
+[00:53] Clinic Agent: Can you tell me the reason for canceling your appointment?
+[00:56] Patient (Bot): I'm going out of town and I won't be able to make it.
+[01:02] Clinic Agent: Just to confirm, you want to cancel your appointment on Thursday, July 2nd, with Dr. Zbigniew Lukowski.
+[01:08] Clinic Agent: Is that correct?
+[01:11] Patient (Bot): That's right. Please go ahead and cancel it.
+[01:17] Clinic Agent: Your appointment for tomorrow with Dr. Lukowski has been canceled.
+[01:21] Clinic Agent: Is there anything else I can help you with today?
+[01:24] Patient (Bot): No, that's all for now. I'll call back later once my travel plans are settled.
+[01:28] Patient (Bot): Thank you.
+[01:31] Clinic Agent: You're welcome.
+[01:32] Clinic Agent: Safe travels, Hardy.
+[01:35] Patient (Bot): Thanks, I appreciate that. Take care.
+[01:39] Clinic Agent: Take out harder.
+[01:40] Clinic Agent: Have a great day.
+[01:42] Patient (Bot): You too.

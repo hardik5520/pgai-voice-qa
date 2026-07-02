@@ -1,0 +1,41 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: part of Pretty Good AI. How may I help you today?
+[00:13] Patient (Bot): Uh, hey, yeah, so, um...
+[00:16] Patient (Bot): I've just not been feeling great lately, and I was hoping to, you know...
+[00:20] Patient (Bot): Add a little help.
+[00:24] Clinic Agent: I see you're calling from the number we have on file.
+[00:27] Clinic Agent: Am I thinking with hardest?
+[00:30] Patient (Bot): Yeah, this is Hardik speaking.
+[00:34] Clinic Agent: Please provide your date of birth.
+[00:36] Patient (Bot): Sure, it's May 5th.
+[00:39] Patient (Bot): 2000.
+[00:43] Clinic Agent: The birthday doesn't match our records, but for demo purposes, I'll accept it.
+[00:47] Clinic Agent: Can you tell me a bit more about what symptoms or issues you've been having? That way I can help you get the right support.
+[00:54] Patient (Bot): Yeah, so, um, it's this knee pain.
+[00:57] Patient (Bot): It's been bothering me for a while, kind of from an old injury, and it's just not getting better, you know?
+[01:11] Clinic Agent: Thanks for sharing that.
+[01:12] Clinic Agent: Would you like to schedule an appointment to have your knee checked out, or do you have specific questions for the clinic team first?
+[01:20] Patient (Bot): Yeah, um, I think I'd like to schedule an appointment to get it checked out, if that's possible.
+[01:30] Clinic Agent: Based on what you described, this sounds like a general office visit for your knee pain.
+[01:34] Clinic Agent: Does that sound right, or is there something more urgent or specific you want to address?
+[01:39] Patient (Bot): Yeah, that sounds right.
+[01:41] Patient (Bot): Just a general visit to figure out what's going on with my knee.
+[01:44] Clinic Agent: Do you have a specific provider you'd like to see, or are you open to the next available appointment?
+[01:50] Patient (Bot): I'm open to the next available.
+[01:52] Patient (Bot): Whatever works soonest, honestly.
+[01:57] Clinic Agent: Let me check the next available appointment for a general office visit.
+[02:01] Clinic Agent: Moment.
+[02:02] Clinic Agent: There are no open appointments available through next Wednesday. Would you like to look for times later next week, or is there a specific date that works better for you?
+[02:11] Patient (Bot): Let's look for times later next week. That should be fine.
+[02:19] Clinic Agent: I found an opening on Thursday, July 9th, at 11:30 a.m. with Kelly Noble, M.D. Would you like to book that slot or would you prefer to hear about other dates?
+[02:29] Patient (Bot): That time sounds good.
+[02:31] Patient (Bot): Let's go ahead and book that slot with Kelly Noble, MD.
+[02:37] Clinic Agent: Your appointment is set for Thursday, July 9th at 11:30 a.m. with Dr. Kelly Noble at Pivot Point Orthopedics.
+[02:45] Clinic Agent: Please bring your photo ID, insurance card, a list of your current medications, and any imaging discs you have.
+[02:51] Clinic Agent: Is there anything else I can help you with today?
+[02:54] Patient (Bot): No, I think that covers it. Thanks a lot for your help.
+[02:59] Clinic Agent: You're all set, Hardy.
+[03:01] Clinic Agent: We look forward to seeing you at your appointment.
+[03:03] Clinic Agent: Have a great day!
+[03:05] Patient (Bot): Thanks, you too. Take care.

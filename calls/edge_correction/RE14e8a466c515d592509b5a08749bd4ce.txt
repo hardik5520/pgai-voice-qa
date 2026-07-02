@@ -1,0 +1,49 @@
+[00:00] Clinic Agent: This call may be recorded for quality and training purposes. Para español, oprima el dos.
+[00:06] Clinic Agent: Thanks for calling Pivot Point Orthopedics.
+[00:08] Clinic Agent: part of pretty good AI. How may I help you today?
+[00:13] Patient (Bot): Hey, yeah, I'd like to book an appointment.
+[00:16] Patient (Bot): I've got some knee pain.
+[00:17] Patient (Bot): And I'm hoping to get in sometime.
+[00:18] Clinic Agent: I see you're calling from the number we have on file.
+[00:21] Clinic Agent: Am I speaking with Hardik?
+[00:23] Patient (Bot): Yeah, this is Hardick speaking.
+[00:27] Clinic Agent: Please provide your date of birth.
+[00:29] Patient (Bot): Oh, sure.
+[00:31] Patient (Bot): My date of birth is May 5th, 1999.
+[00:34] Patient (Bot): Wait, sorry, that's wrong.
+[00:35] Patient (Bot): It's May 5th, 2000.
+[00:42] Clinic Agent: Thanks for clarifying.
+[00:43] Clinic Agent: What brings you in today?
+[00:45] Clinic Agent: Are you looking for a routine visit?
+[00:47] Clinic Agent: to follow.
+[00:48] Clinic Agent: Or if you have a specific concern.
+[00:51] Patient (Bot): Yeah.
+[00:52] Patient (Bot): I've got this knee pain that's been bothering me.
+[00:55] Patient (Bot): And I was hoping to get an appointment in the next week or two to have it checked out.
+[01:02] Clinic Agent: Just to confirm, you'd like to book an appointment to have your knee pain checked out.
+[01:06] Clinic Agent: Is this a new issue, or have you seen us for this before?
+[01:10] Patient (Bot): Yeah, this is a new issue.
+[01:12] Patient (Bot): It just started a little while ago, and I haven't come in for it before.
+[01:15] Patient (Bot): I wanna get it checked out.
+[01:20] Clinic Agent: Do you have a specific provider you'd like to see, or are you open to the first available?
+[01:25] Patient (Bot): I'm open to the first available. I just want to get in as soon as possible.
+[01:38] Clinic Agent: We have openings as soon as tomorrow with your primary provider.
+[01:41] Clinic Agent: Dr. Zbigniew Lukowski.
+[01:43] Clinic Agent: Dr. Kelly Noble.
+[01:45] Clinic Agent: Do you prefer morning or afternoon?
+[01:49] Patient (Bot): Morning would be better, if possible. Yeah, I'd prefer morning.
+[01:57] Clinic Agent: Tomorrow morning we have eight.
+[01:59] Clinic Agent: 8:30 and 8:45 a.m. available.
+[02:02] Clinic Agent: Would any of those work for you?
+[02:04] Patient (Bot): Let's go with the 8:30 a.m. slot. That works for me.
+[02:14] Clinic Agent: Your appointment is set for Thursday, July 2nd at 8:30 a.m. with Dr. Zaid Bengu Lukowski at Pivot Point Orthopedics.
+[02:22] Clinic Agent: Please bring your photo ID, insurance card.
+[02:25] Clinic Agent: a list of your current medications and any imaging discs you have.
+[02:29] Clinic Agent: Would you like a text message with these details?
+[02:32] Patient (Bot): Yeah, a text message would be great. Thank you. That way I've got everything on hand.
+[02:41] Clinic Agent: You'll get a text with your appointment details soon.
+[02:44] Clinic Agent: Is there anything else I can help you with today?
+[02:46] Patient (Bot): No, that's all I needed. Thanks a lot for your help.
+[02:52] Clinic Agent: You're all set for your appointment.
+[02:54] Clinic Agent: Have a great day, and we look forward to seeing you tomorrow.
+[02:58] Patient (Bot): You too. See you tomorrow.
