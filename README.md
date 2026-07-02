@@ -117,6 +117,14 @@ which automatically picks up the most recent call.
 
 Every scenario uses the same caller identity, Hardik Arora, born May 5th 2000, since Pretty Good AI's test account ties a real, persistent patient record to the calling phone number. That means state carries over between calls, an appointment booked in one call is still there the next time you call. `reschedule_appointment` and `cancel_appointment` are written to work with whatever's actually on file rather than assuming a specific date, for exactly this reason.
 
+## Iteration
+
+Two rounds of changes came directly out of listening to early calls rather than being planned upfront.
+
+The first: `reschedule_appointment` and `cancel_appointment` were originally written to describe the situation ("you have an appointment, you need to move it") without telling the model what to actually say first. In practice this meant the caller opened both scenarios with a generic "I'd like to book an appointment," the same as a fresh booking call, instead of stating the real intent. This only became obvious from listening to the actual transcripts, the persona reads fine on paper. Both prompts were rewritten to explicitly state the opening line, and rerun to confirm the fix actually changed the caller's behavior before moving on, that's why each of those scenarios has an early call that opens generically and a later one that opens by clearly stating reschedule or cancel intent.
+
+The second reason `cancel_appointment` specifically appears more than once by design: this test account uses one persistent caller identity for every single call, meaning a real appointment booked in one call is still on file for the next one. Several scenarios need to book a fresh appointment to actually test what they're meant to test, so `run_all_scenarios.sh` deliberately runs `cancel_appointment` again before each of them, clearing the slate rather than letting an unrelated leftover appointment from an earlier call derail an unrelated scenario. Most of the repeated `cancel_appointment` recordings are this cleanup step, not redundant testing.
+
 ## A known limitation of the transcripts
 
 Transcription is done by feeding short, isolated clips of detected speech to a transcription model rather than the whole recording at once, since that gives far more reliable timestamps than asking a model to time-stamp a long, mostly silent file itself. Occasionally, a clip that's just noise or a click, rather than an actual word, gets transcribed into a plausible sounding but wrong short phrase, since transcription models don't have a way to say "I heard nothing meaningful here." This is rare and usually shows up as an isolated, out of place line, worth a quick sanity check against the audio for anything you plan to cite directly.
